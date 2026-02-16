@@ -44,11 +44,14 @@ export const About: React.FC = () => {
   ];
 
   const certifications = [
+    "Information Technology AAS",
+    "IT Computer Science Certification",
     "IT Database Administrator Certification",
     "IT Essentials Certification",
+    "IT, Workplace Essentials Certification",
     "Microsoft Office Suite Certification",
-    "CompTIA A+ Core 2 (In Progress)",
-    "IT Technical Support Specialist (In Progress)",
+    "CompTIA A+ Core 2 Certification",
+    "IT Technical Support Specialist",
     "Autodesk Inventor 3D Certification",
     "SolidWorks Academic Certification"
   ];
