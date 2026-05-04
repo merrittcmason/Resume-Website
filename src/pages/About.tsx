@@ -75,7 +75,7 @@ export const About: React.FC = () => {
             >
               <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-crimson">
                 <img
-                  src="/darkshot1.jpg"
+                  src="/headshot.PNG"
                   alt="Merritt Mason"
                   className="w-full h-full rounded-full object-cover"
                 />
